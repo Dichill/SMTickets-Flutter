@@ -1,6 +1,7 @@
 # SM Ticket - Flutter <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Django"> <img alt="Dichill" src="https://img.shields.io/badge/SM-Tickets-blue">
 
-**DISCLAIMER** SMTickets-Flutter is a continuation of a backend that I made named DrX - SM Tickets API (Can be found in my Repositories.) This is a project that aims to help me learn Request thru API between the client and the server. This is a learning process since I'm not that familiar with Flutter, but with tons of research I managed to make it.
+**DISCLAIMER** SMTickets-Flutter is a continuation of a backend that I made named DrX - SM Tickets API (Can be found in my Repositories.) This is a project that aims to help me learn Request thru API between the client and the server. This is a learning process since I'm not that familiar with Flutter, but with tons of research I managed to make it. Do note that I'm still learning on Dart and I know that reading my code will be a pain in the ass, although I do accept feedbacks. Just a reminder you **CANNOT** login nor buy tickets. All it does is get the SM Venues, SM events, and SM Attractions.
+
 <img src="https://sa.kapamilya.com/absnews/abscbnnews/media/2019/business/06/26/20190626-sm-cinema.jpg?ext=.jpg" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="200" height="170">
 
